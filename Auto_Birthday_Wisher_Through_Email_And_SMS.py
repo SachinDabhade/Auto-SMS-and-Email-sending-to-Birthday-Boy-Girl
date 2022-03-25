@@ -12,8 +12,8 @@ import os
 # Changing the working directory
 os.chdir(r"C:\PycharmProjects\Virtual_Environment\Birthday")
 # your gmail credentials here
-GMAIL_ID = 'sachin1922dabhade1998@gmail.com'
-GMAIL_PWD = 'dabhade@12'
+GMAIL_ID = 'your_email'
+GMAIL_PWD = 'Your_password'
 # for desktop notification
 toast = ToastNotifier()
 
